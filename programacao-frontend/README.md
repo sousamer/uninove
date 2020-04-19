@@ -14,6 +14,6 @@
 
 ## Aula 03  - 17/04/2020
 
-> Introdução Javascript - Linguagem
+>  Sintaxe, operadores, variaveis e expressões em JavaScript
 - [Slides](https://docs.google.com/presentation/d/1V7mAb5w0sdjYhvdAyeeEQJ42s3R1vilKZuRp_7vhMmM/edit?usp=sharing)
 - [Exercícios](https://github.com/wagnerssouza/uninove/tree/master/programacao-frontend/aula-03)
