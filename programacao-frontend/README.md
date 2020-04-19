@@ -3,6 +3,8 @@
 
 [Aula 02 - 03/04/2020 - Introdução Javascript - Linguagem](https://docs.google.com/presentation/d/1leFFfZb5hZu_QeVOOEy4eOQHPbubcDuEpcONFHkfL0Y/edit?usp=sharing)
 
+[Aula 03 - 17/04/2020 - Sintaxe, operadores, variaveis e expressões em JavaScript](https://docs.google.com/presentation/d/1leFFfZb5hZu_QeVOOEy4eOQHPbubcDuEpcONFHkfL0Y/edit?usp=sharing)
+
 
 
 
