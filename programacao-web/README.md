@@ -17,7 +17,7 @@
 
 > Arrays, Objetos e Operadores
 
-- [Slides](https://github.com/wagnerssouza/uninove/tree/master/programacao-web/aula-03/Aula 03 - 08_04_2020 - Arrays, Objetos e Operadores.pdf)
+- [Slides](https://github.com/wagnerssouza/uninove/tree/master/programacao-web/aula-03/Aula03-08_04_2020-Arrays-Objetos-Operadores.pdf)
 - [Exercícios](https://github.com/wagnerssouza/uninove/tree/master/programacao-web/aula-03)
 
 ## Aula 04 - 15/04/2020
