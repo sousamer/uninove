@@ -10,7 +10,7 @@
 
 > Comunicação client/server
 
-- [Slides](https://github.com/wagnerssouza/uninove/tree/master/programacao-web/aula-02/Aula 02 - Comunicação client_server.pdf)
+- [Slides](https://github.com/wagnerssouza/uninove/tree/master/programacao-web/aula-02/Aula02-Comunicacao-client-server.pdf)
 - [Exercícios](https://github.com/wagnerssouza/uninove/tree/master/programacao-web/aula-02)
 
 ## Aula 03 - 08/04/2020
