@@ -24,5 +24,5 @@
 
 > Estruturas de decisão e looping
 
-- [Slides](https://github.com/wagnerssouza/uninove/tree/master/programacao-web/aula-04/Aula 04 - 15_04_2020 - Estruturas de decisão e looping.pdf)
+- [Slides](https://github.com/wagnerssouza/uninove/tree/master/programacao-web/aula-04/Aula04-15_04_2020-Estruturas-de-decisao-e-looping.pdf)
 - [Exercícios](https://github.com/wagnerssouza/uninove/tree/master/programacao-web/aula-04)
