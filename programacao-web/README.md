@@ -27,9 +27,9 @@
 - [Slides](https://github.com/wagnerssouza/uninove/tree/master/programacao-web/aula-04/Aula04-15_04_2020-Estruturas-de-decisao-e-looping.pdf)
 - [Exercícios](https://github.com/wagnerssouza/uninove/tree/master/programacao-web/aula-04)
 
-## Aula 04 - 15/04/2020
+## Aula 05 - 22/04/2020
 
-> Estruturas de decisão e looping
+> Manipulando Arrays
 
 - [Slides](https://github.com/wagnerssouza/uninove/tree/master/programacao-web/aula-05/Aula05-22_04_2020-manipulacaoo_de_arrays.pdf)
 - [Exercícios](https://github.com/wagnerssouza/uninove/tree/master/programacao-web/aula-05)
