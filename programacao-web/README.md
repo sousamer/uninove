@@ -31,5 +31,5 @@
 
 > Estruturas de decisão e looping
 
-- [Slides](https://github.com/wagnerssouza/uninove/tree/master/programacao-web/aula-04/Aula05-22_04_2020-manipulacaoo_de_arrays.pdf)
+- [Slides](https://github.com/wagnerssouza/uninove/tree/master/programacao-web/aula-05/Aula05-22_04_2020-manipulacaoo_de_arrays.pdf)
 - [Exercícios](https://github.com/wagnerssouza/uninove/tree/master/programacao-web/aula-05)
