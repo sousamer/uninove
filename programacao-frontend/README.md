@@ -1,19 +1,28 @@
 # Programação Frontend - Material de apoio
 
-## Aula 01  - 13/03/2020
+## Aula 01 - 13/03/2020
 
 > Introdução Programação Frontend
-- [Slides](https://docs.google.com/presentation/d/1lM03YWk-fjHBv2f0yPUXwPhThC7fQ1Lt9r-ZNC_YYAw/edit?usp=sharing)
 
-## Aula 02  - 03/04/2020
+- [Slides](https://github.com/wagnerssouza/uninove/tree/master/programacao-frontend/aula-01/aula01-Introducaojavascript.pdf)
+
+## Aula 02 - 03/04/2020
 
 > Introdução Javascript - Linguagem
-- [Slides](https://docs.google.com/presentation/d/1leFFfZb5hZu_QeVOOEy4eOQHPbubcDuEpcONFHkfL0Y/edit?usp=sharing)
+
+- [Slides](https://github.com/wagnerssouza/uninove/tree/master/programacao-frontend/aula-02/aula02-IntroducaoJavascript-Linguagem.pdf)
 - [Exercícios](https://github.com/wagnerssouza/uninove/tree/master/programacao-frontend/aula-02)
 
+## Aula 03 - 17/04/2020
 
-## Aula 03  - 17/04/2020
+> Sintaxe, operadores, variaveis e expressões em JavaScript
 
->  Sintaxe, operadores, variaveis e expressões em JavaScript
-- [Slides](https://docs.google.com/presentation/d/1V7mAb5w0sdjYhvdAyeeEQJ42s3R1vilKZuRp_7vhMmM/edit?usp=sharing)
+- [Slides](https://github.com/wagnerssouza/uninove/tree/master/programacao-frontend/aula-03/Aula03-Sintaxe-Operadores-variaveis.pdf)
 - [Exercícios](https://github.com/wagnerssouza/uninove/tree/master/programacao-frontend/aula-03)
+
+## Aula 04 - 24/04/2020
+
+> Objetos, funções, arrays e métodos nativos para números
+
+- [Slides](https://github.com/wagnerssouza/uninove/tree/master/programacao-frontend/aula-04/Aula04-Sintaxe-Operadores-variaveis.pdf.pdf)
+- [Exercícios](https://github.com/wagnerssouza/uninove/tree/master/programacao-frontend/aula-04)
