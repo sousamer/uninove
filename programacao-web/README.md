@@ -33,3 +33,10 @@
 
 - [Slides](https://github.com/wagnerssouza/uninove/tree/master/programacao-web/aula-05/Aula05-22_04_2020-manipulacaoo_de_arrays.pdf)
 - [Exercícios](https://github.com/wagnerssouza/uninove/tree/master/programacao-web/aula-05)
+
+## Aula 06 - 29/04/2020
+
+> Variáveis pré-definidas
+
+- [Slides](https://github.com/wagnerssouza/uninove/tree/master/programacao-web/aula-06/Aula06-29_04_2020-variaveis-pre-definidas.pdf)
+- [Exercícios](https://github.com/wagnerssouza/uninove/tree/master/programacao-web/aula-06)
