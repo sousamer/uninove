@@ -3,7 +3,7 @@
     <title>PHP index</title>
   </head>
   <body>
-    <h1>Olá Mundo</p>
+    <h1>Olá Mundo</h1>
     <ul>
       <li><a href="get/index.php">$_GET</a></li>
       <li><a href="globals/index.php">$_GLOBALS</a></li>
