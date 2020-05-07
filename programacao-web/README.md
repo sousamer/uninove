@@ -1,6 +1,7 @@
 # Programação Web - Material de apoio
 
 ## Ambiente de Desenvolvimento online das aulas
+
 > - [Repl.it - Ambiente de Desenvolvimento](https://repl.it/@wagnerssouza/programacao-web)
 > - [Repl.it - Ambiente de visualização](https://programacao-web.wagnerssouza.repl.co)
 
@@ -44,3 +45,10 @@
 
 - [Slides](https://github.com/wagnerssouza/uninove/tree/master/programacao-web/aula-06/Aula06-29_04_2020-variaveis-pre-definidas.pdf)
 - [Exercícios](https://github.com/wagnerssouza/uninove/tree/master/programacao-web/aula-06)
+
+## Aula 07 - 06/05/2020
+
+> Variáveis pré-definidas e validando informações de um formulário
+
+- [Slides](https://github.com/wagnerssouza/uninove/tree/master/programacao-web/aula-07/aula07_06_05_2020_resgatando_informacoes_de_formularios.pdf)
+- [Exercícios](https://github.com/wagnerssouza/uninove/tree/master/programacao-web/aula-07)
